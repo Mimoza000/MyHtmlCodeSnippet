@@ -8,6 +8,16 @@ Windows 11 Home の beta にて VScode September 2022 (version 1.72) で動作�
 1. VScodeを開く。
 2. それぞれのOSの場所に保存
 
-*Windows	%APPDATA%\Code\User\settings.json
-*macOS	$HOME/Library/Application Support/Code/User/settings.json
-*Linux	$HOME/.config/Code/User/settings.json
+*Windows  %APPDATA%\Code\User\settings.json<br>
+*macOS	$HOME/Library/Application Support/Code/User/settings.json<br>
+*Linux	$HOME/.config/Code/User/settings.json<br>
+
+## 補完の種類
+1. b -> br
+2. bb -> brbr
+3. u -> a herf
+4. i -> img
+5. s -> strong
+
+## 注意
+sを使うときは" s "としないと補完されない
