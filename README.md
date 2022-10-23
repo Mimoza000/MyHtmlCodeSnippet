@@ -8,7 +8,7 @@ Windows 11 Home の beta にて VScode September 2022 (version 1.72) で動作�
 1. VScodeを開く。
 2. それぞれのOSの場所に保存
 
-*Windows&nbsp;&nbsp;%APPDATA%\Code\User\settings.json<br>
+*Windows&nbsp;&nbsp;%APPDATA%\Roaming\Code\User\settings.json<br>
 *macOS&nbsp;&nbsp;$HOME/Library/ApplicationSupport/Code/User/settings.json<br>
 *Linux&nbsp;&nbsp;$HOME/.config/Code/User/settings.json<br>
 
